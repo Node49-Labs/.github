@@ -1,181 +1,182 @@
-# NØDΞ⁴⁹ Labs
-
 <div align="center">
 
-# 🚀 **Built Different.**
+<p>
+  <a href="https://github.com/nodex-labs">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=F73858&background=00000000&center=true&vCenter=true&width=800&height=70&lines=N%C3%98D%CE%9E%E2%81%B4%E2%81%B9+LABS;BUILT+DIFFERENT.;INNOVATE.+SECURE.+DOMINATE." alt="Typing SVG" />
+  </a>
+</p>
 
-### *Where Innovation Meets Security*
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</p>
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-NØDΞ⁴⁹%20Labs-181717?style=for-the-badge&logo=github)](https://github.com/Node49-Labs)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/nodexlabs)
-[![Telegram](https://img.shields.io/badge/Telegram-Join-7289DA?style=for-the-badge&logo=telegram)](https://t.me/NodeX49Labs)
-[![Website](https://img.shields.io/badge/Website-Visit-FF6B35?style=for-the-badge&logo=internet-explorer)](https://nodexlabs.dev)
-
----
-
-</div>
-
-## 📖 About Us
-
-**NØDΞ⁴⁹ Labs** is a cutting-edge developer and cybersecurity community pioneering the future of technology across Africa and beyond. We're not just building software – we're architecting secure, intelligent systems that solve real-world problems.
-
-Founded by a collective of passionate developers, security researchers, and AI enthusiasts, we operate at the intersection of innovation, security, and open-source collaboration. Our mission is simple: **push boundaries, break barriers, and build what's next.**
-
----
-
-## 🔥 What Sets Us Apart
-
-<div align="center">
-
-| 🎯 **Focus Areas** | 💡 **Approach** | 🌍 **Impact** |
-|:---:|:---:|:---:|
-| Security-First Development | Research-Driven Innovation | Global Community Building |
-| Cutting-Edge Technology | Hands-On Learning | Open Source Contributions |
-| Collaborative Ecosystem | Real-World Applications | African Tech Empowerment |
+[![GitHub Org](https://img.shields.io/badge/GitHub-NØDΞ⁴⁹%20Labs-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/nodex-labs)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/nodexlabs)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/nodexlabs)
+[![Website](https://img.shields.io/badge/Website-Visit-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=0D1117)](https://nodexlabs.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=nodex-labs&color=dc143c&style=for-the-badge&label=VIEWERS)
 
 </div>
 
 ---
 
-## 💻 Our Domains
+### 📖 **System Overview**
 
-### 🛡️ Cybersecurity Research & Education
-We dive deep into the trenches of modern cybersecurity – from vulnerability research and penetration testing to developing educational resources that empower the next generation of security professionals.
+```diff
+! NØDΞ⁴⁹ SYSTEM INITIALIZATION
++ Loading Cybersecurity Modules... [OK]
++ Initializing AI Neural Networks... [OK]
++ Compiling Open Source Directives... [OK]
+- Disabling Legacy Insecurities... [DONE]
+```
 
-- **Vulnerability Research**: Identifying and responsibly disclosing security flaws
-- **Security Tooling**: Building and contributing to open-source security tools
-- **Training & Workshops**: Hands-on labs, CTFs, and security education
-- **Threat Intelligence**: Analyzing emerging threats and attack vectors
+**NØDΞ⁴⁹ Labs** is a cutting-edge developer and cybersecurity collective pioneering the future of technology across Africa and beyond. We operate at the bleeding edge of innovation, security, and open-source collaboration. We don't just write code; we architect secure, intelligent ecosystems.
 
-### 🤖 AI & Automation Projects
-Leveraging artificial intelligence and machine learning to automate complex processes, enhance security, and create intelligent systems.
-
-- **ML Security**: AI model security and adversarial machine learning
-- **Automation Frameworks**: Building intelligent automation solutions
-- **Research Papers**: Contributing to the AI/ML research community
-- **Practical Applications**: Real-world AI implementations
-
-### ⚙️ Software Development
-From scalable web applications to robust system architectures, we build software that matters.
-
-- **Full-Stack Development**: Modern, scalable applications
-- **System Architecture**: Designing robust, maintainable systems
-- **DevOps & Cloud**: Infrastructure as code and cloud-native solutions
-- **API Development**: RESTful and GraphQL APIs
-
-### 🌐 Open Source Contributions
-We believe in giving back to the community that fuels our growth.
-
-- **Active Maintenance**: Maintaining and improving popular open-source projects
-- **New Initiatives**: Launching projects that solve real problems
-- **Community Building**: Fostering collaboration among developers
-- **Documentation**: Comprehensive, accessible technical documentation
-
-### 🏆 CTFs & Security Challenges
-We love a good challenge. Our team regularly participates in and organizes capture-the-flag competitions and security challenges.
-
-- **Team Competitions**: Representing NØDΞ⁴⁹ in international CTFs
-- **Challenge Creation**: Designing security challenges for the community
-- **Knowledge Sharing**: Write-ups and tutorials for CTF solutions
-- **Skill Development**: Continuous improvement through competition
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3794e-e034-425b-82ad-955f3f4585c4.gif" width="500">
+</div>
 
 ---
 
-## 🎯 Our Mission
+### 🧬 **The NØDΞ⁴⁹ Philosophy**
 
-> **"To unite developers, security enthusiasts, and innovators in creating impactful projects that advance technical excellence and contribute meaningfully to the global technology ecosystem."**
-
-We're committed to:
-- ✅ **Building** practical, secure, and innovative solutions
-- ✅ **Learning** through research, experimentation, and collaboration
-- ✅ **Teaching** by sharing knowledge and mentoring emerging talent
-- ✅ **Contributing** to open source and the broader tech community
-- ✅ **Growing** as a diverse, inclusive, and forward-thinking community
+```diff
++ We write secure code by default.
++ We automate the boring stuff.
++ We share knowledge openly and aggressively.
+- We do not compromise on security.
+- We do not build in silos.
+- We do not accept "it works on my machine."
+```
 
 ---
 
-## 🌟 Active Projects
+### 💻 **Core Domains & Tech Stack**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🛡️ Cybersecurity</h3>
+      <p><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"> <img src="https://img.shields.io/badge/Metasploit-239923?style=for-the-badge&logo=metasploit&logoColor=white"></p>
+      <p><em>Vulnerability Research, Threat Intel, Red/Blue Teaming</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI & Automation</h3>
+      <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></p>
+      <p><em>Adversarial ML, Intelligent Automation, LLM Security</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Software Eng</h3>
+      <p><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></p>
+      <p><em>Scalable Architecture, Cloud-Native, DevSecOps</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏗️ **Active Operations (Recent Commits)**
+
+```diff
+commit 8f4a2b1c9d0e7f6a5b4c3d2e1f0a9b8c7d6e5f4a
+Author: NØDΞ⁴⁹ Core Team <core@nodexlabs.dev>
+Date:   Tue Jul 28 2026 14:32:00 GMT+0000
+
+    feat(secure-node): implement zero-trust architecture in scanning engine
+
++ added JWT middleware with RSA-2048 encryption for internal node comms
++ integrated AI-driven heuristic analysis for zero-day detection
+- removed legacy session-based auth mechanisms
+- deprecated outdated regex-based payload matching
+```
+
+```diff
+commit 2a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e3f2a1b
+Author: AI-Research Division <ai@nodexlabs.dev>
+Date:   Mon Jul 26 2026 09:15:00 GMT+0000
+
+    chore(ai-guardian): optimize neural network inference time by 40%
+
++ implemented ONNX Runtime for cross-platform model deployment
++ added quantization support for edge-device threat detection
+- refactored legacy TensorFlow 1.x data pipelines
+```
+
+---
+
+### 📊 **Organization Telemetry & Impact**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodex-labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nodex-labs&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+</div>
+
+<br>
 
 <div align="center">
 
-| Project | Description | Status | Tech Stack |
-|---------|-------------|--------|------------|
-| **SecureNode** | Automated vulnerability scanning framework | 🟢 Active | Python, Go |
-| **AI-Guardian** | ML-powered threat detection system | 🟡 Beta | Python, TensorFlow |
-| **CryptoShield** | Open-source encryption library | 🟢 Active | Rust, C++ |
-| **DevOps-Automator** | Infrastructure automation toolkit | 🔴 Planning | Terraform, Ansible |
-| **CTF-Platform** | Custom CTF hosting and management | 🟡 Beta | Node.js, React |
+[![NØDΞ⁴⁹ Labs Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nodex-labs&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/nodex-labs)
+
+</div>
+
+#### 🏆 **By The Numbers**
+
+| 🏗️ **Projects Built** | 👥 **Community Members** | 📝 **Research Papers** | 🔓 **Vulns Disclosed** |
+| :---: | :---: | :---: | :---: |
+| ![50+](https://img.shields.io/badge/50+-F85D7F?style=for-the-badge&labelColor=0D1117) | ![2,000+](https://img.shields.io/badge/2,000+-F8D866?style=for-the-badge&labelColor=0D1117) | ![15+](https://img.shields.io/badge/15+-47A248?style=for-the-badge&labelColor=0D1117) | ![100+](https://img.shields.io/badge/100+-FF6B35?style=for-the-badge&labelColor=0D1117) |
+
+---
+
+### 🚀 **Join the Collective**
+
+```bash
+$ nodex init --organization "NØDΞ⁴⁹ Labs"
+> Initializing secure environment...
+> Syncing with global nodes...
+> Deploying AI modules... [SUCCESS]
+> Welcome to the future.
+```
+
+We are actively recruiting **Red Teamers, Full-Stack Architects, ML Engineers, and Technical Writers**. 
+
+<p align="center">
+  <a href="mailto:careers@nodexlabs.dev">
+    <img src="https://img.shields.io/badge/APPLY_NOW-Email_Us-F73858?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.gg/nodexlabs">
+    <img src="https://img.shields.io/badge/JOIN_CHAT-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 📬 **Establish Contact**
+
+<div align="center">
+
+| 🌐 **Portal** | 💬 **Comms** | 🐦 **Broadcasts** | 💼 **Network** |
+| :---: | :---: | :---: | :---: |
+| [**nodexlabs.dev**](https://nodexlabs.dev) | [**Discord Server**](https://discord.gg/nodexlabs) | [**@nodexlabs**](https://twitter.com/nodexlabs) | [**LinkedIn Org**](https://linkedin.com/company/nodexlabs) |
 
 </div>
 
 ---
 
-## 🤝 Join Our Community
-
-We're always looking for passionate individuals to join our mission. Whether you're a seasoned professional or just starting your journey, there's a place for you at NØDΞ⁴⁹ Labs.
-
-### 👥 Who We're Looking For
-
-- **Developers**: Frontend, backend, full-stack, and mobile developers
-- **Security Researchers**: Pentesters, vulnerability researchers, threat analysts
-- **AI/ML Engineers**: Specialists in machine learning and AI applications
-- **Technical Writers**: Documentation and educational content creators
-- **Community Managers**: Enthusiasts who love building and engaging communities
-
-### 🚀 How to Get Involved
-
-1. **Star our repositories** ⭐ Show your support
-2. **Join our Discord** 💬 Connect with the community
-3. **Contribute to projects** 🛠️ Submit PRs, report issues
-4. **Participate in events** 🎉 Join our CTFs and workshops
-5. **Share our content** 📢 Help spread the word
-
----
-
-## 📊 Our Impact
-
 <div align="center">
 
-| Metric | Count | Growth |
-|--------|-------|--------|
-| 🏗️ **Projects Built** | 50+ | 📈 40% YoY |
-| 👥 **Community Members** | 2,000+ | 📈 65% YoY |
-| 📝 **Research Papers** | 15+ | 📈 25% YoY |
-| 🎓 **Workshops Held** | 30+ | 📈 50% YoY |
-| 🔓 **Vulnerabilities Found** | 100+ | 📈 Ongoing |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nodex-labs/nodex-labs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nodex-labs/nodex-labs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nodex-labs/nodex-labs/output/github-contribution-grid-snake.svg">
+</picture>
 
-</div>
+<br><br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284154-e7a3b904-9b1d-4b11-b91b-38885304f987.gif" width="400">
 
-## 📬 Get In Touch
+### *"The future belongs to those who build it. Securely."*
 
-<div align="center">
-
-### Let's Build Something Amazing Together
-
-**🌐 Website**: [nodexlabs.dev](https://nodexlabs.dev)  
-**📧 Email**: [contact@nodexlabs.dev](mailto:contact@nodexlabs.dev)  
-**💬 Discord**: [Join Our Community](https://discord.gg/nodexlabs)  
-**🐦 Twitter**: [@nodexlabs](https://twitter.com/nodexlabs)  
-**💼 LinkedIn**: [NØDΞ⁴⁹ Labs](https://linkedin.com/company/nodexlabs)
-
-</div>
-
----
-
-## 📄 License
-
-Unless otherwise specified, all projects under NØDΞ⁴⁹ Labs are released under the [MIT License](LICENSE) to promote open collaboration and innovation.
-
----
-
-<div align="center">
-
-### **"The future belongs to those who build it."**
-
-**NØDΞ⁴⁹ Labs** © 2026 | Built Different. Built Better.
+**NØDΞ⁴⁹ Labs** © 2026 | **Built Different. Built Better.**
 
 [⬆ Back to Top](#nødex⁴⁹-labs)
-
 </div>
