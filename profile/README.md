@@ -12,7 +12,7 @@
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-NØDΞ⁴⁹%20Labs-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Node49-Labs)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/nodexlabs)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/nodexlabs)
+[![Telegram](https://img.shields.io/badge/Join-5865F2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/NodeX49Labs)
 [![Website](https://img.shields.io/badge/Website-Visit-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=0D1117)](https://nodexlabs.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=nodex-labs&color=dc143c&style=for-the-badge&label=VIEWERS)
 
