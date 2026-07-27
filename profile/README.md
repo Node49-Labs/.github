@@ -22,13 +22,6 @@
 
 ### 📖 **System Overview**
 
-```diff
-! NØDΞ⁴⁹ SYSTEM INITIALIZATION
-+ Loading Cybersecurity Modules... [OK]
-+ Initializing AI Neural Networks... [OK]
-+ Compiling Open Source Directives... [OK]
-- Disabling Legacy Insecurities... [DONE]
-```
 
 **NØDΞ⁴⁹ Labs** is a cutting-edge developer and cybersecurity collective pioneering the future of technology across Africa and beyond. We operate at the bleeding edge of innovation, security, and open-source collaboration. We don't just write code; we architect secure, intelligent ecosystems.
 
@@ -75,47 +68,18 @@
 
 ---
 
-### 🏗️ **Active Operations (Recent Commits)**
-
-```diff
-commit 8f4a2b1c9d0e7f6a5b4c3d2e1f0a9b8c7d6e5f4a
-Author: NØDΞ⁴⁹ Core Team <core@nodexlabs.dev>
-Date:   Tue Jul 28 2026 14:32:00 GMT+0000
-
-    feat(secure-node): implement zero-trust architecture in scanning engine
-
-+ added JWT middleware with RSA-2048 encryption for internal node comms
-+ integrated AI-driven heuristic analysis for zero-day detection
-- removed legacy session-based auth mechanisms
-- deprecated outdated regex-based payload matching
-```
-
-```diff
-commit 2a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e3f2a1b
-Author: AI-Research Division <ai@nodexlabs.dev>
-Date:   Mon Jul 26 2026 09:15:00 GMT+0000
-
-    chore(ai-guardian): optimize neural network inference time by 40%
-
-+ implemented ONNX Runtime for cross-platform model deployment
-+ added quantization support for edge-device threat detection
-- refactored legacy TensorFlow 1.x data pipelines
-```
-
----
-
 ### 📊 **Organization Telemetry & Impact**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodex-labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nodex-labs&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Node49-Labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Node49-Labs&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 </div>
 
 <br>
 
 <div align="center">
 
-[![NØDΞ⁴⁹ Labs Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nodex-labs&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/nodex-labs)
+[![NØDΞ⁴⁹ Labs Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Node49-Labs&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/nodex-labs)
 
 </div>
 
