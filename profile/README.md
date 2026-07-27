@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <a href="https://github.com/nodex-labs">
+  <a href="https://github.com/Node49-Labs">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=27F5CF&background=00000000&center=true&vCenter=true&width=800&height=70&lines=N%C3%98D%CE%9E%E2%81%B4%E2%81%B9+LABS;BUILT+DIFFERENT." alt="Typing SVG" />
   </a>
 </p>
@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </p>
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-NØDΞ⁴⁹%20Labs-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/nodex-labs)
+[![GitHub Org](https://img.shields.io/badge/GitHub-NØDΞ⁴⁹%20Labs-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Node49-Labs)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/nodexlabs)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/nodexlabs)
 [![Website](https://img.shields.io/badge/Website-Visit-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=0D1117)](https://nodexlabs.dev)
