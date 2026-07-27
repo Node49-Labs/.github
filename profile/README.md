@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/nodex-labs">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=F73858&background=00000000&center=true&vCenter=true&width=800&height=70&lines=N%C3%98D%CE%9E%E2%81%B4%E2%81%B9+LABS;BUILT+DIFFERENT.;INNOVATE.+SECURE.+DOMINATE." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=27F5CF&background=00000000&center=true&vCenter=true&width=800&height=70&lines=N%C3%98D%CE%9E%E2%81%B4%E2%81%B9+LABS;BUILT+DIFFERENT." alt="Typing SVG" />
   </a>
 </p>
 
