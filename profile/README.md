@@ -68,79 +68,17 @@
 
 ---
 
-### 📊 **Organization Telemetry & Impact**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Node49-Labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Node49-Labs&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
-</div>
-
-<br>
-
-<div align="center">
-
-[![NØDΞ⁴⁹ Labs Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Node49-Labs&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/nodex-labs)
-
-</div>
-
-#### 🏆 **By The Numbers**
-
-| 🏗️ **Projects Built** | 👥 **Community Members** | 📝 **Research Papers** | 🔓 **Vulns Disclosed** |
-| :---: | :---: | :---: | :---: |
-| ![50+](https://img.shields.io/badge/50+-F85D7F?style=for-the-badge&labelColor=0D1117) | ![2,000+](https://img.shields.io/badge/2,000+-F8D866?style=for-the-badge&labelColor=0D1117) | ![15+](https://img.shields.io/badge/15+-47A248?style=for-the-badge&labelColor=0D1117) | ![100+](https://img.shields.io/badge/100+-FF6B35?style=for-the-badge&labelColor=0D1117) |
-
----
-
 ### 🚀 **Join the Collective**
 
-```bash
-$ nodex init --organization "NØDΞ⁴⁹ Labs"
-> Initializing secure environment...
-> Syncing with global nodes...
-> Deploying AI modules... [SUCCESS]
-> Welcome to the future.
+```diff
++ Coming soon...
 ```
 
-We are actively recruiting **Red Teamers, Full-Stack Architects, ML Engineers, and Technical Writers**. 
-
-<p align="center">
-  <a href="mailto:careers@nodexlabs.dev">
-    <img src="https://img.shields.io/badge/APPLY_NOW-Email_Us-F73858?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discord.gg/nodexlabs">
-    <img src="https://img.shields.io/badge/JOIN_CHAT-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
----
-
-### 📬 **Establish Contact**
-
-<div align="center">
-
-| 🌐 **Portal** | 💬 **Comms** | 🐦 **Broadcasts** | 💼 **Network** |
-| :---: | :---: | :---: | :---: |
-| [**nodexlabs.dev**](https://nodexlabs.dev) | [**Discord Server**](https://discord.gg/nodexlabs) | [**@nodexlabs**](https://twitter.com/nodexlabs) | [**LinkedIn Org**](https://linkedin.com/company/nodexlabs) |
-
-</div>
-
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nodex-labs/nodex-labs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nodex-labs/nodex-labs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nodex-labs/nodex-labs/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284154-e7a3b904-9b1d-4b11-b91b-38885304f987.gif" width="400">
 
 ### *"The future belongs to those who build it. Securely."*
 
 **NØDΞ⁴⁹ Labs** © 2026 | **Built Different. Built Better.**
-
-[⬆ Back to Top](#nødex⁴⁹-labs)
 </div>
