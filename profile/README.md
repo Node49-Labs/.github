@@ -25,10 +25,6 @@
 
 **NØDΞ⁴⁹ Labs** is a cutting-edge developer and cybersecurity collective pioneering the future of technology across Africa and beyond. We operate at the bleeding edge of innovation, security, and open-source collaboration. We don't just write code; we architect secure, intelligent ecosystems.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3794e-e034-425b-82ad-955f3f4585c4.gif" width="500">
-</div>
-
 ---
 
 ### 🧬 **The NØDΞ⁴⁹ Philosophy**
